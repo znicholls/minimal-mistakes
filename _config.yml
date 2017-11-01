@@ -11,8 +11,8 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Zebedee Nicholls"
+description              : "A selection of my developing notes"
 url                      : "https://znicholls.github.io"
 baseurl                  : "/"
 repository               : "znicholls/znicholls.github.io"
@@ -83,11 +83,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Zebedee Nicholls"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Nothing to see here"
+  location         : "Melbourne"
+  email            : "zebedee.nicholls@climate-energy-college.org"
   uri              :
   bitbucket        :
   codepen          :
