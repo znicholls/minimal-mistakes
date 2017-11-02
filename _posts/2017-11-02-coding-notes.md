@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Starting Coding Notes
 author_profile: true
 ---
