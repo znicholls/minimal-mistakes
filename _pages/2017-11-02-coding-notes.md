@@ -1,3 +1,9 @@
+---
+layout: post
+title: Starting Coding Notes
+author_profile: true
+---
+
 # ZN's Developing Notes
 
 *Some notes*
